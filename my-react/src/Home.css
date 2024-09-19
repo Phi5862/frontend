@@ -1,0 +1,45 @@
+.display{
+    /* background-color: lightblue; */
+    background-image: url(D:\frontend\images\bgpd.jpg);
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: lightblue;
+}
+
+.product-item{
+    background-color: lightyellow;
+}
+
+.header{
+    background-color: #cccc66;
+    width: 100%;
+    height: 100px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    
+}
+
+.bgli {
+    background-image: url(D:\frontend\images\back.jpg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-size: cover;
+}
+.li{
+    background-color: rgb(125, 119, 131);
+    width: 680px;
+    height:300px;
+    border-radius: 30px;
+    display: flex;
+    
+}
+
+
